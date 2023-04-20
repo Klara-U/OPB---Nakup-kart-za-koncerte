@@ -1,0 +1,14 @@
+*-
+_pycache_
+*.aux
+*.code-workspace
+*.log
+*.out
+*.pyc 
+.DS_Store
+.RHistory
+.Rproj.user
+.RData
+auth.py
+auth.R 
+Thumbs.db
