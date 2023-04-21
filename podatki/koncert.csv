@@ -1,0 +1,601 @@
+id_koncert,id_turneja,kraj,drzava,datum,cena_karte
+1,77,Estacion,Philippines,8/22/2024,5
+2,71,Walce,Poland,9/21/2022,32
+3,19,Gózd,Poland,5/15/2023,36
+4,40,Mieszkowice,Poland,9/21/2022,42
+5,82,Dębowiec,Poland,7/12/2024,53
+6,38,Nalus,Philippines,12/1/2022,34
+7,6,Guadalupe,Mexico,5/14/2024,29
+8,60,Romblon,Philippines,12/1/2023,22
+9,38,San Juan,Philippines,5/14/2025,4
+10,25,San Lorenzo,Argentina,9/21/2023,58
+11,34,Lazaro Cardenas,Mexico,5/26/2024,35
+12,57,Unity,Canada,11/13/2024,39
+13,6,Ejidal,Mexico,7/6/2023,53
+14,9,Houston,United States,1/5/2024,6
+15,73,Horizonte,Brazil,5/21/2025,36
+16,87,Buri,Brazil,12/17/2022,21
+17,32,Carquefou,France,8/28/2023,30
+18,35,Roanoke,United States,7/27/2022,33
+19,81,Penedo,Brazil,9/11/2024,10
+20,82,Néa Ionía,Greece,6/4/2023,53
+21,56,Rudy,Poland,9/12/2024,56
+22,8,Trindade,Brazil,5/16/2023,38
+23,11,New Orleans,United States,9/9/2022,29
+24,72,Iperó,Brazil,7/2/2023,34
+25,27,Mólos,Greece,4/5/2023,29
+26,64,Kiikala,Finland,12/12/2022,21
+27,55,Strančice,Czech Republic,6/5/2022,8
+28,74,Infanta,Philippines,7/30/2024,2
+29,21,Haibara,Japan,9/8/2022,4
+30,73,Unisław,Poland,10/2/2023,18
+31,86,Tabonok,Philippines,6/25/2022,7
+32,87,Dzików Stary,Poland,8/14/2024,28
+33,45,Jedlina-Zdrój,Poland,10/14/2023,36
+34,76,Chichinales,Argentina,3/14/2025,45
+35,69,Gzy,Poland,6/16/2022,29
+36,90,Rýmařov,Czech Republic,6/5/2023,30
+37,80,Ambulong,Philippines,12/7/2022,49
+38,92,Lidoríki,Greece,1/25/2023,59
+39,33,Smiřice,Czech Republic,3/9/2024,15
+40,31,Almaguer,Colombia,5/9/2025,42
+41,69,Vuokatti,Finland,3/20/2023,7
+42,25,Colegiales,Argentina,6/14/2022,50
+43,50,Palmas,Brazil,4/10/2025,11
+44,99,La Unión,Colombia,11/22/2023,60
+45,53,Olbramovice,Czech Republic,3/25/2025,59
+46,32,Venado Tuerto,Argentina,6/1/2022,49
+47,20,Miami,United States,1/29/2025,35
+48,84,Gambalidio,Philippines,11/11/2022,38
+49,92,Puerto Tejada,Colombia,4/27/2022,17
+50,64,Sandefjord,Norway,7/8/2024,17
+51,3,Paris 03,France,6/10/2023,45
+52,53,Numazu,Japan,1/15/2025,43
+53,38,La Hacienda,Philippines,12/2/2023,41
+54,35,Pontevedra,Argentina,6/6/2024,4
+55,99,Corralito,Argentina,11/16/2022,22
+56,83,Odawara,Japan,4/25/2022,49
+57,86,Châlons-en-Champagne,France,4/25/2023,41
+58,100,Frederiksberg,Denmark,12/12/2023,20
+59,14,Kinamayan,Philippines,10/9/2023,58
+60,24,Mullagh,Ireland,5/4/2023,19
+61,93,Garupá,Argentina,11/11/2022,20
+62,41,Rancagua,Chile,12/7/2024,56
+63,16,Puerto Santander,Colombia,4/27/2023,37
+64,4,Santa Rita,Philippines,9/17/2022,56
+65,94,Rychwał,Poland,3/19/2023,53
+66,79,Montréal,Canada,10/14/2022,46
+67,58,Ciasna,Poland,1/2/2024,1
+68,82,Bobigny,France,1/8/2024,38
+69,77,Drammen,Norway,4/20/2024,49
+70,24,Podgórzyn,Poland,11/3/2024,8
+71,66,Vargem Grande Paulista,Brazil,1/4/2024,11
+72,42,Marapanim,Brazil,4/4/2023,25
+73,86,Pelaya,Colombia,6/24/2024,19
+74,94,Mapulo,Philippines,8/10/2023,19
+75,28,Santa Fe,Philippines,6/12/2023,37
+76,53,Jacupiranga,Brazil,10/22/2023,28
+77,97,Węgierska Górka,Poland,3/19/2025,2
+78,55,Salgueiro,Brazil,8/5/2023,40
+79,33,La Seyne-sur-Mer,France,5/6/2024,60
+80,62,Quaraí,Brazil,8/12/2023,8
+81,47,Cabalawan,Philippines,6/9/2024,4
+82,20,Ibiúna,Brazil,2/20/2025,14
+83,93,London,United Kingdom,10/25/2024,1
+84,24,Oravais,Finland,2/2/2024,27
+85,22,Balud,Philippines,5/19/2022,44
+86,72,Francisco J Mujica,Mexico,3/26/2025,4
+87,20,Cosquín,Argentina,1/16/2023,25
+88,25,Buri,Brazil,1/21/2025,52
+89,66,Ráječko,Czech Republic,3/29/2025,30
+90,68,Promna,Poland,6/29/2023,8
+91,76,Cerquilho,Brazil,9/16/2022,53
+92,46,San Francisco,Philippines,3/20/2023,11
+93,82,Pedraza,Colombia,1/17/2024,13
+94,49,Lago dos Rodrigues,Brazil,10/5/2024,32
+95,38,Asikkala,Finland,7/28/2022,39
+96,40,Ciénaga de Oro,Colombia,1/7/2023,1
+97,100,Bayeux,Brazil,5/30/2022,54
+98,35,Trzebiatów,Poland,1/3/2025,9
+99,37,Quinarayan,Philippines,6/26/2024,29
+100,14,Ostrožská Nová Ves,Czech Republic,11/7/2022,46
+101,19,Carazinho,Brazil,1/16/2023,6
+102,61,Zagórnik,Poland,8/31/2024,51
+103,26,Albacete,Spain,11/4/2024,38
+104,5,Hagonoy,Philippines,1/13/2023,39
+105,47,Hřebeč,Czech Republic,1/26/2025,52
+106,79,Huntsville,United States,2/27/2024,7
+107,93,Tiguha,Philippines,1/11/2023,36
+108,59,Gary,United States,2/3/2025,46
+109,85,Ińsko,Poland,8/19/2023,57
+110,58,Avignon,France,5/24/2023,8
+111,12,Jefferson City,United States,1/3/2024,45
+112,94,Maloma,Philippines,4/11/2024,5
+113,42,Mullagh,Ireland,8/12/2024,44
+114,44,Mercedes,Philippines,2/13/2023,27
+115,8,Grabica,Poland,1/12/2023,50
+116,14,Maputi,Philippines,6/22/2023,52
+117,80,Emmeloord,Netherlands,10/8/2023,16
+118,91,Condado,Brazil,4/19/2024,52
+119,26,Waihi,New Zealand,7/22/2022,12
+120,71,Guyancourt,France,3/29/2024,42
+121,11,Alangilanan,Philippines,8/14/2023,17
+122,23,Milwaukee,United States,12/31/2022,59
+123,77,Imperatriz,Brazil,11/12/2023,31
+124,12,Yamaga,Japan,8/28/2024,54
+125,54,Nová Role,Czech Republic,10/24/2023,30
+126,63,Merritt,Canada,6/15/2024,46
+127,91,Cajicá,Colombia,5/5/2022,42
+128,33,Salinas,United States,7/12/2023,36
+129,76,Ituberá,Brazil,7/4/2022,3
+130,59,San Vicente,Philippines,7/18/2023,44
+131,78,Czarna Dąbrówka,Poland,12/16/2023,48
+132,18,Oncativo,Argentina,11/30/2023,41
+133,33,Orléans,France,9/21/2023,19
+134,83,Enniskerry,Ireland,8/23/2022,25
+135,3,São Sebastião do Caí,Brazil,10/3/2024,20
+136,93,Saari,Finland,3/3/2023,56
+137,65,Wilmington,United States,9/16/2024,13
+138,32,Rudnik,Poland,6/14/2024,46
+139,87,Katsuura,Japan,5/12/2024,53
+140,44,Lagkadás,Greece,7/12/2022,52
+141,99,Atocha,Bolivia,3/11/2023,26
+142,33,Kalibo (poblacion),Philippines,12/2/2022,30
+143,5,Cawayan,Philippines,3/13/2023,31
+144,20,Puerto Tejada,Colombia,12/21/2023,22
+145,35,Goiatuba,Brazil,2/13/2023,40
+146,100,Phoenix,United States,1/10/2025,34
+147,50,Rimus,Philippines,6/8/2023,29
+148,46,Corralito,Argentina,11/14/2024,52
+149,43,Talisay,Philippines,4/6/2025,20
+150,92,Granada,Philippines,12/12/2023,59
+151,100,Barr,France,1/4/2023,43
+152,2,Washington,United States,3/20/2025,36
+153,87,Presidencia Roque Sáenz Peña,Argentina,6/23/2023,13
+154,57,Emmen,Netherlands,8/5/2023,12
+155,64,Hamm,Germany,6/2/2024,21
+156,10,Jednorożec,Poland,11/10/2024,50
+157,48,Wolin,Poland,12/12/2024,20
+158,58,Comodoro Rivadavia,Argentina,5/8/2023,24
+159,18,Estreito,Brazil,12/21/2023,28
+160,32,Fresno,United States,2/21/2025,24
+161,81,Lyon,France,7/17/2022,42
+162,70,Getulio,Philippines,5/25/2023,21
+163,48,Bayawan,Philippines,6/6/2022,22
+164,57,Magdaleno Aguilar,Mexico,9/25/2022,39
+165,92,Longjumeau,France,12/6/2022,31
+166,90,Revolucion Verde,Mexico,1/24/2024,25
+167,64,Kastélli,Greece,8/27/2023,55
+168,4,Kasamatsuchō,Japan,10/31/2023,36
+169,40,Aime,France,4/20/2023,41
+170,26,Oslo,Norway,11/2/2022,28
+171,72,Digne-les-Bains,France,12/29/2022,3
+172,21,Oinoússes,Greece,3/18/2023,16
+173,32,El Mirador,Mexico,7/19/2024,9
+174,18,Passo Fundo,Brazil,8/15/2024,43
+175,86,Ajaccio,France,5/4/2024,44
+176,61,Sypniewo,Poland,6/21/2024,10
+177,2,Marechal Cândido Rondon,Brazil,3/22/2025,46
+178,83,Austin,United States,12/13/2024,35
+179,25,Kagawasan,Philippines,2/10/2025,8
+180,97,Mauhao,Philippines,11/23/2022,3
+181,20,San Carlos,Philippines,6/24/2024,38
+182,43,Trzciana,Poland,4/3/2023,23
+183,94,Huatajata,Bolivia,8/10/2022,31
+184,65,Łazy,Poland,5/25/2023,1
+185,75,Ferrol,Spain,4/22/2023,38
+186,34,Donostia-San Sebastian,Spain,3/26/2023,51
+187,80,Aubenas,France,12/14/2023,7
+188,41,Lubichowo,Poland,8/24/2024,8
+189,27,Afántou,Greece,10/20/2024,1
+190,22,Bayabas,Philippines,5/9/2023,2
+191,57,Novo Hamburgo,Brazil,10/28/2023,47
+192,93,Bobowa,Poland,9/15/2023,18
+193,10,Malec,Poland,4/26/2024,2
+194,24,Sadská,Czech Republic,7/4/2022,14
+195,92,Velké Svatoňovice,Czech Republic,7/11/2024,18
+196,96,Malé Svatoňovice,Czech Republic,1/23/2024,48
+197,61,Santa Fe,Philippines,12/3/2022,50
+198,100,Cartagena,Colombia,5/2/2023,1
+199,20,Montecarlo,Argentina,12/8/2024,9
+200,1,Emiliano Zapata,Mexico,3/5/2024,43
+201,35,Toyama-shi,Japan,11/23/2023,7
+202,96,Balrothery,Ireland,12/10/2024,4
+203,32,Grenoble,France,4/27/2024,53
+204,80,Maribong,Philippines,4/29/2023,53
+205,58,Arras,France,7/6/2022,49
+206,20,Castelnaudary,France,4/9/2025,9
+207,22,Nowa Ruda,Poland,10/21/2023,14
+208,84,Créteil,France,10/10/2022,51
+209,54,Robertsport,Liberia,10/25/2022,22
+210,91,Tullyallen,Ireland,10/11/2024,19
+211,78,Rennes,France,1/3/2023,46
+212,48,Montreuil,France,11/25/2024,33
+213,26,Oughterard,Ireland,9/20/2023,47
+214,38,Hagonoy,Philippines,7/20/2022,25
+215,92,San Isidro,Philippines,12/8/2024,49
+216,48,Perth,Australia,8/6/2023,31
+217,100,Józefosław,Poland,3/22/2025,33
+218,10,Haapajärvi,Finland,11/15/2024,50
+219,85,Empório,Greece,3/17/2024,56
+220,41,Santo André,Brazil,12/10/2024,56
+221,21,Wołczyn,Poland,4/27/2023,26
+222,95,Kraków,Poland,12/26/2023,19
+223,82,Villa La Angostura,Argentina,10/20/2024,44
+224,73,Hrob,Czech Republic,7/14/2022,51
+225,57,Washington,United States,4/5/2025,27
+226,49,Orito,Colombia,3/22/2025,58
+227,42,Ciepielów,Poland,8/3/2022,25
+228,92,Větřní,Czech Republic,1/25/2024,4
+229,30,Dayton,United States,12/19/2024,24
+230,14,Bressuire,France,2/16/2025,6
+231,98,Atipuluhan,Philippines,8/26/2023,51
+232,59,Esquina,Argentina,5/17/2023,47
+233,44,Buenavista,Philippines,2/21/2024,39
+234,52,Indianapolis,United States,4/22/2024,4
+235,99,Chvalšiny,Czech Republic,10/20/2022,50
+236,81,Prado,Brazil,7/21/2023,40
+237,89,Tibigan,Philippines,11/21/2023,54
+238,68,El Soberbio,Argentina,2/15/2023,21
+239,51,Aldana,Colombia,1/12/2024,49
+240,32,Bar-le-Duc,France,1/10/2023,57
+241,59,Langádhia,Greece,3/20/2023,44
+242,73,Vitrolles,France,7/30/2023,22
+243,97,Itajaí,Brazil,9/9/2024,52
+244,95,Pontarlier,France,10/21/2022,21
+245,21,Niquelândia,Brazil,7/6/2023,21
+246,64,Pinheiral,Brazil,1/11/2024,3
+247,13,General Pico,Argentina,1/28/2025,35
+248,98,Las Palmas,Mexico,12/24/2022,18
+249,24,Kramarzówka,Poland,1/20/2023,27
+250,86,Brloh,Czech Republic,5/19/2025,43
+251,77,Norton,United Kingdom,6/13/2022,48
+252,20,Paraparaumu,New Zealand,4/17/2024,34
+253,24,Pittsburgh,United States,8/24/2024,52
+254,43,Bayog,Philippines,6/13/2023,6
+255,22,Lianokládhion,Greece,12/16/2024,57
+256,68,Santa Barbara,United States,1/10/2023,20
+257,75,Bacabal,Brazil,5/13/2024,44
+258,88,Lappajärvi,Finland,2/13/2024,40
+259,36,Puricay,Philippines,7/3/2022,50
+260,62,Guayabetal,Colombia,11/29/2022,16
+261,30,Salaberry-de-Valleyfield,Canada,10/26/2024,38
+262,30,Alcalá,Colombia,8/26/2023,50
+263,77,Almeirim,Brazil,8/29/2024,34
+264,53,General Conesa,Argentina,5/30/2022,44
+265,16,Cláudio,Brazil,1/20/2024,16
+266,38,Airdrie,Canada,7/17/2022,20
+267,41,Voiron,France,7/28/2024,50
+268,16,Casimiro de Abreu,Brazil,8/20/2024,3
+269,29,Kongsvinger,Norway,11/27/2022,8
+270,28,Miguel Hidalgo,Mexico,5/17/2024,36
+271,9,Strasbourg,France,7/17/2022,8
+272,25,Praszka,Poland,11/10/2022,49
+273,12,Le Mans,France,6/8/2023,54
+274,64,Cincinnati,United States,9/30/2022,28
+275,18,Fort Smith,Canada,2/14/2024,15
+276,93,Mateus Leme,Brazil,3/28/2023,19
+277,13,Banes,Cuba,7/23/2022,49
+278,9,Stockton,United States,11/18/2022,22
+279,74,Hamburg Sankt Pauli,Germany,7/28/2023,38
+280,72,Detroit,United States,11/13/2024,8
+281,88,Kavásilas,Greece,10/27/2023,1
+282,78,La Cañada,Mexico,9/18/2024,38
+283,96,Wałcz,Poland,6/14/2024,39
+284,86,Kobylanka,Poland,6/20/2023,9
+285,26,El Paso,United States,2/1/2023,41
+286,51,Strážnice,Czech Republic,7/31/2024,35
+287,55,Lieksa,Finland,5/16/2023,9
+288,57,Oslo,Norway,10/24/2022,8
+289,25,Hagerstown,United States,4/26/2022,52
+290,22,Presidente Bernardes,Brazil,10/7/2024,24
+291,11,Los Charrúas,Argentina,1/12/2024,8
+292,40,Calimita,Colombia,12/19/2024,2
+293,61,Lajedo,Brazil,8/25/2024,38
+294,3,Numata,Japan,5/7/2023,31
+295,75,Birr,Ireland,4/14/2024,57
+296,83,Patong,Philippines,5/10/2025,23
+297,99,Lille,France,9/22/2024,33
+298,10,Santa Ignacia,Philippines,2/3/2023,41
+299,68,São Roque,Brazil,12/22/2023,21
+300,37,Wilmington,United States,11/22/2023,43
+301,54,Dueñas,Philippines,9/23/2022,57
+302,44,Rio Branco do Sul,Brazil,10/22/2022,57
+303,96,5 de Mayo,Mexico,8/5/2022,48
+304,99,Independencia,Mexico,9/19/2022,40
+305,60,Orleans,Brazil,10/23/2022,26
+306,51,Lyon,France,8/1/2024,14
+307,39,Iguig,Philippines,7/30/2022,12
+308,31,Floresta,Brazil,4/24/2024,36
+309,31,Kardamás,Greece,6/9/2022,52
+310,94,Yanggu,South Korea,5/30/2022,16
+311,42,Ierápetra,Greece,5/22/2024,44
+312,56,Cassanayan,Philippines,7/30/2024,4
+313,99,Los Angeles,United States,2/15/2025,17
+314,43,Pukekohe East,New Zealand,9/18/2024,32
+315,26,Sibanicú,Cuba,1/23/2023,17
+316,49,Salgueiro,Brazil,5/5/2025,15
+317,65,Santos,Brazil,5/13/2025,24
+318,76,Valence,France,6/15/2023,30
+319,1,Waco,United States,2/13/2024,46
+320,38,Grand Rapids,United States,8/3/2022,40
+321,3,Cabrero,Chile,1/10/2023,42
+322,69,Oslo,Norway,1/11/2025,53
+323,66,Sypniewo,Poland,9/12/2022,4
+324,42,Santiago De Compostela,Spain,7/8/2024,30
+325,88,Libuganon,Philippines,3/16/2024,14
+326,86,Lyon,France,9/30/2022,30
+327,12,Amersfoort,Netherlands,10/7/2022,31
+328,54,Wleń,Poland,5/31/2022,25
+329,11,Itapaci,Brazil,7/6/2024,40
+330,2,Mairinque,Brazil,8/20/2023,33
+331,70,Villaguay,Argentina,12/20/2024,2
+332,55,Greystones,Ireland,12/7/2024,22
+333,13,L'Épiphanie,Canada,11/21/2024,7
+334,24,Buriti Alegre,Brazil,9/25/2022,34
+335,45,Zborovice,Czech Republic,4/1/2025,28
+336,88,Linares,Chile,8/15/2024,34
+337,98,Salvacion,Philippines,12/8/2022,47
+338,79,Papágou,Greece,12/24/2022,22
+339,39,Dangcalan,Philippines,3/1/2025,16
+340,36,Reszel,Poland,8/31/2022,31
+341,54,Hirvensalmi,Finland,10/15/2024,25
+342,99,San Diego,Mexico,8/9/2024,16
+343,95,Montreuil,France,1/3/2024,45
+344,73,Motegi,Japan,8/9/2024,11
+345,61,Matsubase,Japan,3/4/2024,2
+346,47,Oslo,Norway,9/28/2023,33
+347,90,Atok,Philippines,11/25/2022,51
+348,18,Ise,Japan,9/26/2023,40
+349,19,Chambas,Cuba,5/5/2025,8
+350,7,Corpus Christi,United States,11/5/2022,59
+351,46,Pandasan,Philippines,8/21/2023,27
+352,69,Santa Barbara,Philippines,4/25/2022,3
+353,98,Kylmäkoski,Finland,7/17/2023,1
+354,63,Florencia,Cuba,11/6/2023,34
+355,49,Mělník,Czech Republic,8/24/2023,1
+356,31,Châtillon,France,3/7/2023,47
+357,98,Villa General Belgrano,Argentina,11/3/2023,39
+358,36,Trzebunia,Poland,12/4/2024,30
+359,84,Dos Hermanas,Spain,10/10/2024,32
+360,48,Cravo Norte,Colombia,6/28/2023,11
+361,37,Dolany,Czech Republic,2/18/2023,57
+362,19,Viçosa do Ceará,Brazil,10/31/2022,52
+363,38,Crossfield,Canada,2/17/2025,51
+364,68,Niimi,Japan,5/14/2022,32
+365,89,Aglipay,Philippines,7/31/2022,44
+366,61,La Falda,Argentina,11/1/2024,17
+367,62,São João de Meriti,Brazil,9/14/2022,57
+368,47,Gennevilliers,France,2/28/2023,45
+369,1,Palhoça,Brazil,5/24/2022,49
+370,90,Murcki,Poland,7/28/2024,28
+371,100,Besançon,France,1/6/2023,9
+372,64,Jacarezinho,Brazil,5/27/2022,6
+373,1,Szczecinek,Poland,8/13/2023,38
+374,12,Philadelphia,United States,4/14/2024,56
+375,85,Sōja,Japan,3/31/2025,59
+376,3,Dingle,Philippines,8/21/2024,37
+377,85,Kogota,Japan,11/26/2023,51
+378,21,Arroyito,Argentina,3/30/2024,59
+379,56,Länsi-Turunmaa,Finland,12/9/2022,43
+380,40,Suwa,Japan,7/14/2023,58
+381,56,Épinal,France,10/7/2023,49
+382,48,Mirotice,Czech Republic,9/9/2023,25
+383,35,El Cantón de San Pablo,Colombia,12/15/2024,46
+384,95,Smínthi,Greece,10/31/2022,17
+385,55,Tabu,Philippines,1/11/2024,11
+386,65,President Roxas,Philippines,3/21/2024,18
+387,79,Kouvarás,Greece,8/5/2024,4
+388,45,Roissy Charles-de-Gaulle,France,11/14/2022,52
+389,97,São Francisco do Sul,Brazil,1/31/2023,7
+390,30,Reforma,Mexico,2/8/2024,49
+391,74,Saint-Brieuc,France,10/22/2022,19
+392,65,Brive-la-Gaillarde,France,2/14/2023,9
+393,78,Paulba,Philippines,7/28/2022,53
+394,58,Barbosa,Colombia,12/2/2024,54
+395,99,Villa Ángela,Argentina,6/7/2023,6
+396,14,Botucatu,Brazil,11/25/2022,29
+397,32,Židlochovice,Czech Republic,10/26/2022,10
+398,32,Arendal,Norway,1/5/2024,5
+399,17,Zdounky,Czech Republic,11/15/2024,18
+400,95,Montpellier,France,10/30/2024,21
+401,59,Málaga,Colombia,3/27/2025,25
+402,21,Liliongan,Philippines,4/2/2024,5
+403,43,Jacupiranga,Brazil,1/6/2025,29
+404,24,Charras,Argentina,11/11/2023,46
+405,55,Marseille,France,1/25/2023,40
+406,29,Ambulong,Philippines,5/1/2022,21
+407,30,Higashine,Japan,9/21/2022,39
+408,6,Legaspi,Philippines,1/28/2024,49
+409,17,Bugo,Philippines,11/20/2023,47
+410,6,Las Palmas,Mexico,10/15/2024,24
+411,14,Jacksonville,United States,12/13/2022,31
+412,20,Bystré,Czech Republic,9/1/2022,36
+413,91,Coxim,Brazil,4/20/2023,42
+414,93,Petrópolis,Brazil,12/10/2023,1
+415,62,Pirapozinho,Brazil,6/27/2022,25
+416,98,Orly aérogare,France,6/14/2022,5
+417,20,Smečno,Czech Republic,3/17/2023,58
+418,11,Santa Cruz,Mexico,11/7/2024,48
+419,37,Sutton,United Kingdom,3/21/2024,34
+420,40,Northern Suburbs Mc,Australia,1/10/2025,34
+421,53,Ostaszewo,Poland,6/27/2022,52
+422,65,Panay,Philippines,11/25/2024,10
+423,64,Chemnitz,Germany,9/27/2024,54
+424,7,Manassas,United States,10/30/2024,43
+425,88,Kurikka,Finland,5/20/2025,39
+426,35,Compiègne,France,11/13/2023,33
+427,38,Doong,Philippines,7/31/2024,7
+428,79,Beberibe,Brazil,1/9/2025,30
+429,78,Albardón,Argentina,8/16/2022,14
+430,42,Rungis,France,5/18/2023,22
+431,95,Moriguchi,Japan,5/16/2022,30
+432,37,Louiseville,Canada,11/16/2023,10
+433,77,Boulder,United States,12/7/2022,58
+434,78,Jardín,Colombia,6/13/2024,43
+435,64,Eskifjörður,Iceland,2/14/2023,15
+436,97,Tubli,Philippines,10/7/2024,47
+437,29,Bulnes,Chile,2/14/2023,47
+438,43,São João dos Inhamuns,Brazil,6/10/2024,27
+439,51,Cambé,Brazil,12/6/2022,45
+440,63,Paitan Norte,Philippines,1/2/2023,3
+441,73,Inglewood,United States,8/10/2023,57
+442,4,El Paso,United States,12/20/2024,17
+443,95,Almafuerte,Argentina,11/16/2024,23
+444,34,Loštice,Czech Republic,6/14/2023,22
+445,22,Saint-Étienne,France,3/2/2023,25
+446,65,Ishiki,Japan,10/30/2024,39
+447,13,Solec Nad Wisłą,Poland,3/21/2023,24
+448,70,Villa del Rosario,Argentina,4/24/2023,22
+449,53,Nikkō,Japan,8/18/2023,22
+450,79,Icó,Brazil,6/22/2022,33
+451,14,Lafayette,United States,3/25/2025,21
+452,1,Yanai,Japan,9/16/2024,4
+453,65,Stará Ves nad Ondřejnicí,Czech Republic,11/7/2024,14
+454,66,Ojiya,Japan,5/12/2025,17
+455,52,Staré Město,Czech Republic,1/30/2023,52
+456,74,Candelária,Brazil,1/13/2024,39
+457,62,Laval,France,1/7/2023,44
+458,66,Hveragerði,Iceland,3/13/2025,8
+459,92,Vlachovice,Czech Republic,8/31/2024,39
+460,14,Ishikawa,Japan,12/1/2022,7
+461,25,Lunen,Philippines,11/10/2023,24
+462,96,Arcos,Brazil,4/16/2023,10
+463,56,Hodkovičky,Czech Republic,1/5/2024,38
+464,92,Chamalières,France,8/20/2023,29
+465,2,Três Coroas,Brazil,3/4/2023,27
+466,58,Hazlov,Czech Republic,6/20/2024,32
+467,50,Albacete,Spain,12/12/2022,28
+468,99,Náchod,Czech Republic,9/10/2022,18
+469,44,Chapultepec,Mexico,9/13/2024,11
+470,50,Fukura,Japan,8/15/2022,45
+471,25,Shimodate,Japan,2/23/2025,11
+472,66,Manhumirim,Brazil,8/27/2023,3
+473,88,Chambas,Cuba,11/20/2024,56
+474,94,Montería,Colombia,12/15/2022,35
+475,50,Évreux,France,8/18/2023,45
+476,32,San Sebastian,Philippines,8/19/2024,34
+477,34,Thessalon,Canada,1/25/2025,26
+478,65,Cobh,Ireland,6/24/2023,33
+479,58,Godziszów Pierwszy,Poland,7/10/2022,58
+480,37,Jequitinhonha,Brazil,8/30/2022,56
+481,84,Trondheim,Norway,4/10/2025,42
+482,96,San Miguel,Mexico,12/27/2024,46
+483,82,Araruama,Brazil,10/16/2023,18
+484,87,Tuchów,Poland,9/15/2022,18
+485,34,Koronowo,Poland,8/28/2024,50
+486,98,Silvino Lobos,Philippines,5/13/2023,39
+487,97,Acevedo,Colombia,2/25/2025,57
+488,70,Consolacion,Philippines,12/30/2022,34
+489,16,Malaruhatan,Philippines,8/11/2022,57
+490,7,Sechelt,Canada,10/31/2023,17
+491,22,La Courneuve,France,9/19/2022,49
+492,90,Lampari,Philippines,9/13/2024,36
+493,20,San Pedro,Bolivia,11/10/2022,30
+494,7,Kalibo (poblacion),Philippines,9/12/2024,32
+495,3,Ino,Japan,7/31/2024,22
+496,52,Mantalongon,Philippines,6/22/2024,4
+497,25,Emiliano Zapata,Mexico,4/17/2025,35
+498,25,Santander,Spain,1/4/2025,49
+499,67,Capâo Bonito,Brazil,7/15/2022,25
+500,11,Siilinjärvi,Finland,7/14/2024,9
+501,70,Embajador Martini,Argentina,7/14/2022,12
+502,22,Néa Kíos,Greece,3/25/2023,19
+503,22,Ballymun,Ireland,8/6/2023,31
+504,12,Concordia,Argentina,12/5/2024,4
+505,8,Renfrew,Canada,9/2/2023,19
+506,3,Brodnica,Poland,8/6/2023,6
+507,76,Lorena,Brazil,1/25/2024,52
+508,73,Čejkovice,Czech Republic,6/10/2024,23
+509,54,Bolilao,Philippines,5/30/2023,39
+510,14,Perpignan,France,1/3/2023,26
+511,41,Recreio,Brazil,7/30/2024,17
+512,24,Araçuaí,Brazil,7/14/2023,26
+513,15,New Orleans,United States,10/24/2023,43
+514,16,Diadi,Philippines,11/26/2022,40
+515,35,Itatuba,Brazil,4/29/2025,40
+516,78,Paris 13,France,5/8/2022,24
+517,62,Mikołów,Poland,7/29/2022,40
+518,58,Księżpol,Poland,8/8/2024,52
+519,28,Capitán Solari,Argentina,6/5/2023,7
+520,96,Açucena,Brazil,3/12/2024,44
+521,87,Kawaguchi,Japan,1/3/2025,52
+522,37,Laprida,Argentina,7/10/2022,39
+523,33,Stýpsi,Greece,6/28/2022,40
+524,35,Des Moines,United States,1/12/2024,30
+525,75,Nastola,Finland,9/8/2023,28
+526,56,Vónitsa,Greece,8/20/2023,14
+527,41,Vólos,Greece,3/5/2024,43
+528,11,Pansoy,Philippines,3/7/2025,5
+529,57,København,Denmark,4/28/2025,18
+530,15,Évry,France,8/31/2022,47
+531,58,Tumaco,Colombia,8/14/2024,49
+532,36,Revolucion Verde,Mexico,2/23/2025,50
+533,22,Saint-Gratien,France,10/12/2024,42
+534,79,Ladner,Canada,3/18/2023,59
+535,68,Lorient,France,8/1/2022,34
+536,35,Imatra,Finland,8/21/2023,38
+537,68,Ibung,Philippines,7/7/2022,59
+538,50,Lusong,Philippines,6/18/2022,51
+539,24,Kumberg,Austria,7/8/2022,57
+540,55,Černošice,Czech Republic,4/23/2022,48
+541,14,Tío Pujio,Argentina,7/5/2024,29
+542,53,Gbarnga,Liberia,10/25/2023,32
+543,65,Aurora,Philippines,12/22/2022,2
+544,56,Talospatang,Philippines,6/25/2023,12
+545,50,Mina Clavero,Argentina,3/14/2025,51
+546,83,Los Angeles,United States,1/30/2023,1
+547,47,Hénin-Beaumont,France,8/23/2024,10
+548,50,Fómeque,Colombia,1/14/2023,39
+549,25,Pensilvania,Colombia,8/4/2024,45
+550,88,Middleton,United Kingdom,2/15/2025,6
+551,68,Shin’ichi,Japan,3/20/2025,58
+552,10,Jamaica,United States,12/19/2023,49
+553,3,Carmen,Philippines,7/19/2024,22
+554,64,Mirów,Poland,1/21/2024,21
+555,42,Utrecht (stad),Netherlands,10/7/2024,60
+556,7,Krupka,Czech Republic,12/12/2024,12
+557,55,Ostrov,Czech Republic,5/31/2023,19
+558,79,Montelíbano,Colombia,9/26/2023,43
+559,60,Jacksonville,United States,9/26/2022,28
+560,18,Smołdzino,Poland,2/15/2024,30
+561,35,Koski Tl,Finland,7/22/2023,20
+562,42,Liozon,Philippines,11/19/2023,22
+563,25,Halinów,Poland,9/29/2022,19
+564,52,Santiago De Compostela,Spain,10/9/2023,12
+565,21,Waitangi,New Zealand,6/9/2023,5
+566,23,Buenavista,Mexico,11/20/2022,47
+567,11,San Miguel,Mexico,12/2/2022,52
+568,51,San Luis del Palmar,Argentina,6/30/2023,43
+569,76,Brušperk,Czech Republic,6/5/2024,54
+570,60,Cartagena,Chile,7/15/2022,40
+571,63,La Paz,Argentina,7/8/2024,45
+572,28,Diadi,Philippines,11/3/2022,54
+573,67,Hradec nad Moravici,Czech Republic,10/26/2022,9
+574,35,Fullerton,United States,8/30/2023,3
+575,87,Itaocara,Brazil,6/3/2022,28
+576,58,Troyes,France,8/16/2023,34
+577,46,Lattes,France,9/3/2024,23
+578,34,Paragominas,Brazil,5/16/2025,7
+579,41,Sandefjord,Norway,5/15/2024,53
+580,90,Paulínia,Brazil,11/10/2024,20
+581,60,San Jose,Mexico,8/28/2023,11
+582,73,Iracemápolis,Brazil,7/28/2024,49
+583,23,Astorga,Brazil,6/18/2024,12
+584,39,Iriga City,Philippines,6/10/2022,34
+585,61,"Brgy. Nalook, kalibo",Philippines,11/5/2022,30
+586,25,Paraíso das Águas,Brazil,5/29/2023,33
+587,92,San Benito Abad,Colombia,3/18/2023,40
+588,16,Néos Oropós,Greece,5/15/2024,45
+589,92,Reserva,Brazil,1/12/2023,28
+590,9,Sertãozinho,Brazil,7/24/2022,21
+591,19,Crespo,Argentina,1/30/2023,5
+592,10,Flores da Cunha,Brazil,8/1/2022,16
+593,46,Castleblayney,Ireland,1/10/2023,31
+594,42,Cheb,Czech Republic,7/21/2023,25
+595,63,Moncada,Philippines,11/22/2022,19
+596,93,Przyborów,Poland,10/15/2022,52
+597,15,Kissónerga,Cyprus,9/29/2023,60
+598,39,Kamimaruko,Japan,1/9/2025,45
+599,66,Ploemeur,France,11/3/2023,46
+600,65,Pamiątkowo,Poland,2/21/2025,10
