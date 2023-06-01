@@ -13,6 +13,4 @@ class AuthService:
     def __init__(self, repo : Repo):
         self.repo = repo
 
-    def obstaja_uporabnik(self, uporabnik:str) -> bool:
-        try:
-            user = self.repo.dobi_gen_id(Uporabnik, uporabnik, )
+    
