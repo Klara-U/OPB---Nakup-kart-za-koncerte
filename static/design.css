@@ -1,0 +1,62 @@
+body {
+    /* font-family: Arial; */
+}   
+
+/* Stili za tabele podatkov*/
+.table, th, td {
+    border: 1px solid;
+}
+
+.table-striped {
+    background-color: aliceblue;
+}
+
+#podatki {
+    background-color: white;
+
+}
+.napaka-box {
+    background-color:#EE4238; 
+    color: white; 
+    padding: 2rem; 
+    margin-top: 0.5rem; 
+    margin-bottom: 0.5rem;
+}
+
+.zaokrozeni-vogali {
+    border-radius: 4px;
+}
+
+.edit-celica td {
+    padding: 1rem;
+}
+
+.orodna-vrstica {
+    background-color: lightgray;
+    display: flex;  
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+#iskalnik {
+    line-height: 1.5rem;
+    margin-left: 0.25rem;
+}
+
+.akcije {
+    display: flex;
+}
+
+.akcije form {
+    margin: 0.25rem;
+}
+
+.row {
+    display: flex;
+    background-color: black;
+}
+.col {
+    display: flex;
+    background-color: black;
+}

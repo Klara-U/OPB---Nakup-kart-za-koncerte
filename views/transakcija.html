@@ -1,0 +1,47 @@
+% rebase('osnova.html', naslov='Transakcije')
+% include('orodna_vrstica.html', stolpci='[1, 2]', fun_dodaj='transakcije_dodaj', fun_args={'racun': racun}, napis='Dodaj transakcijo')
+
+    <p>Nakup kart</p>
+
+    <table class="table table-striped" id="podatki">
+      <tr>
+        <th>ID</th>
+        <th>Koncert</th>
+        <th>Število</th>
+        <th>Skupen znesek</th>
+        <th>Datum</th>
+        <th></th>
+      </tr>
+      %for id, koncert, stevilo, skupen znesek, datum:
+      <tr>
+        <td>{{id}}</td>
+        <td>{{koncert}}</td>
+        <td>{{stevilo}}</td>
+        <td>{{skupen_znesek}}</td>
+        <td>{{datum}}</td>
+        <td class="akcije">
+          <form action="{{url('transakcije_uredi', racun=racun, id=id)}}" method="GET">
+            <a href="#" onclick="this.parentElement.submit()">Potrdi</a>
+          </form>
+          <form action="{{url('transakcije_brisi', racun=racun, id=id)}}" method="POST">
+            <a href="#" onclick="this.parentElement.submit()">Potrdi</a>
+          </form>
+        </td>
+      </tr>
+      %end
+    </table>
+
+    <!--
+        Ta del moram dodelati - se nanaša na vnos podatkov za transakcijo in želeno bi bilo, da 
+        se znesek ustrezno spremeni
+    -->   
+    <form action="{{url('transakcija_post')}}" method="POST">
+
+        <div class="col">
+            <label class="form-label">Število kart:</label>
+            <input name="karte" type="int" value="" required
+                 class="form-control" oninput="this.setCustomValidity('')"
+                 oninvalid="this.setCustomValidity('Obvezen podatek')" />
+          </div>
+
+      </form>

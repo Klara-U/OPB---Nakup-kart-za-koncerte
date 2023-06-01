@@ -1,0 +1,42 @@
+% rebase('osnova.html', naslov='Albumi')
+% include('orodna_vrstica.html', stolpci='[1, 2, 3, 4]', fun_dodaj='komitenti_dodaj', napis='Dodaj komitenta')
+
+    <p>
+        <h3>Najboljše ocenjeni albumi </h3>
+    </p>
+
+    <table class="table table-striped" id="podatki">
+      <tr>
+        <th>ID</th>
+        <th>Ime</th>
+        <th>Izvajalec</th>
+        <th>Popularnost</th>
+        <th>Število pesmi</th>
+        <th></th>
+      </tr>
+      
+      <tr>
+        <td>{{emso}}</td>
+        <td>{{ime}}</td>
+        <td>{{Izvajalec}}</td>
+        <td>{{Popularnost}}</td>
+        <td>{{stpesmi}}</td>     
+        <td>{{vnosocen}}</td>
+
+        <td class="akcije">
+          <form action="{{url('albums', emso=emso)}}" method="GET">
+            <a href="#" onclick="this.parentElement.submit()">Dodaj oceno</a>
+          </form>
+          <form action="{{url('albums', emso=emso)}}" method="POST">
+            <a href="#" onclick="this.parentElement.submit()"></a>
+          </form>
+
+          <!-- Klik na Izvajalca kot hyperlink  -->
+          <form action="{{url('albums', emso=emso)}}" method="GET">
+            <a href="#" onclick="this.parentElement.submit()"></a>
+          </form>
+
+        </td>
+      </tr>
+      %end
+    </table>
